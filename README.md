@@ -1,2 +1,2 @@
 # from_scratch
-Learning by building
+Let's build models and networks from scratch.
