@@ -1,2 +1,2 @@
 # from_scratch
-Let's build models and networks from scratch.
+Models and networks from scratch
